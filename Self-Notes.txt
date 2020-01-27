@@ -1,0 +1,4 @@
+Libraries to be installed 
+
+npm install react-redux
+npm install redux-thunk
