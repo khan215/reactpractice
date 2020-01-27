@@ -2,3 +2,9 @@ Libraries to be installed
 
 npm install react-redux
 npm install redux-thunk
+
+
+
+Blog about redux-thunk
+
+https://medium.com/@gethylgeorge/understanding-how-redux-thunk-works-72de3bdebc50
